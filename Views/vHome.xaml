@@ -10,7 +10,7 @@
         <Label 
          Text="TAREA 1"
          HorizontalOptions="Center" 
-         TextColor="Red"
+         TextColor="Purple"
          FontSize="24"/>
 
         <Entry x:Name="txtNombre"
